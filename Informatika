@@ -5,3 +5,5 @@ IT v zdravstvu
   •	Leta 2000 je bil projekt zakljucen vendar v praksi ni zaživel
   •	IT v zdravstvu pa se uporabljatudi za ugotavljanje velikosti in oblike notranjih organov ter razsežnosti različnih bolezni z               računalniško obdelavo podatkov = računalniško tomografijo (CT) 
   •	Velikost in oblike notranjih organov pa dobimo z uporabo jederske magnetne resonance ali ultrazvoka
+  •	Naslednje veliko podraočje uporabe IT v zdravstvu so ekspertni sistemi-računalniški sistem za diagnosticiranje bolezni, optimiziranje metod zdravljenja in predpisovanje dravil(to so sitemi, ki so "ekspertni" oz. specializirani za točno določeno strokovno področje).
+  •	Najbolj znani ekspertni sistem v zdravstvu je Mycin(1976) ter izpopolnjeni sistem Puff
