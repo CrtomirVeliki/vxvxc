@@ -7,3 +7,14 @@ IT v zdravstvu
   •	Velikost in oblike notranjih organov pa dobimo z uporabo jederske magnetne resonance ali ultrazvoka
   •	Naslednje veliko podraočje uporabe IT v zdravstvu so ekspertni sistemi-računalniški sistem za diagnosticiranje bolezni, optimiziranje metod zdravljenja in predpisovanje dravil(to so sitemi, ki so "ekspertni" oz. specializirani za točno določeno strokovno področje).
   •	Najbolj znani ekspertni sistem v zdravstvu je Mycin(1976) ter izpopolnjeni sistem Puff
+  •Ekspertni sistem lahko opredelimo kot inteligentni računalniški program, ki uporablja znanje in postopke sklepanja za reševanje problemov.
+  •	Zgrajen je iz baze znanja, mehanizmov sklepanja in uporabniškega vmesnika
+  •	Danes so v medicini na voljo različni ekspertni sistemni na primer: 
+      - Internist (Diagnosticiranje v interni medici)
+      - Help (Hospital elder life porogram; bolnišnično zdravljenje)
+      - Iliad - izpeljanka iz ekspertnih sistemov, ki omogoča študentom medicine preizkušanje različnih metod zdravljenja, preverjanje             postavljene diagnoze ipd.
+  •	It pa pomaga tudi ljudem s posebnimi potrebami:
+      - Slepi ljudje uporablja naprave, ki besedilo pretvarja v govor, tipkovnice z Barilovo pisavo in govornim vmesnikom, BarillePen
+      - Psebe z motnjami v gibanju uporabljajo računalniško krmiljenje proteze
+  
+ 
